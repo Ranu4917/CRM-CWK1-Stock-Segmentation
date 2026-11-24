@@ -1,0 +1,18 @@
+ticker,rule,detail
+APP,unequal history,first valid date 2021-04-15
+COIN,unequal history,first valid date 2021-04-14
+CEG,unequal history,first valid date 2022-01-19
+EXE,unequal history,first valid date 2021-02-10
+FDXF,no data,no Yahoo prices for the period
+FERG,zero volume days,27 zero-volume days
+GEHC,unequal history,first valid date 2022-12-15
+GEV,unequal history,first valid date 2024-03-27
+HONA,no data,no Yahoo prices for the period
+Q,no data,no Yahoo prices for the period
+RDDT,unequal history,first valid date 2024-03-21
+HOOD,unequal history,first valid date 2021-07-29
+SNDK,no data,no Yahoo prices for the period
+SW,zero volume days,424 zero-volume days
+SOLV,unequal history,first valid date 2024-03-26
+VLTO,unequal history,first valid date 2023-10-04
+VYLR,no data,no Yahoo prices for the period
